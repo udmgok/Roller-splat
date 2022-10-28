@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8ea61da82c9cc2f4b85ff84f92e9268c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Heavy Copper Halftone Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32e108a36d6ba2d4893c871f43ee1b38, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

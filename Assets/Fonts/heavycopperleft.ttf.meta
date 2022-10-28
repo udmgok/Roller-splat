@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e92dba9c747cbe649a89ccd8058f828b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Heavy Copper Leftalic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a7b266ac61a5e4744aa27ff52ac88e0e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

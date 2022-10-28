@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a712237f7003ca0449b4fa7358091075
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Heavy Copper Super-Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0480f62638ae1ac4699fe1792c536df2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
